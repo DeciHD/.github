@@ -30,14 +30,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.71980918"
-     inkscape:cx="446.64615"
-     inkscape:cy="365.37461"
+     inkscape:cx="918.99356"
+     inkscape:cy="400.10604"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
      inkscape:window-x="0"
      inkscape:window-y="48"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2">
+     inkscape:current-layer="layer5">
     <inkscape:grid
        type="xygrid"
        id="grid132"
@@ -48,6 +48,18 @@
   </sodipodi:namedview>
   <defs
      id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 5">
+    <rect
+       style="fill:#ffffff;stroke-width:0.294129"
+       id="rect381"
+       width="185.20833"
+       height="185.20833"
+       x="47.625"
+       y="13.229167" />
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
@@ -92,14 +104,14 @@
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075"
        cx="140.22919"
-       cy="26.969366"
+       cy="29.615198"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5"
        cx="140.22917"
-       cy="40.754902"
+       cy="43.400734"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -108,40 +120,40 @@
        width="19.843744"
        height="13.740197"
        x="130.30733"
-       y="27.014706" />
+       y="29.660538" />
     <rect
        style="fill:#666666;stroke-width:0.337056"
        id="rect908"
        width="13.229161"
        height="13.740197"
        x="133.61461"
-       y="27.014706" />
+       y="29.660538" />
     <ellipse
-       style="fill:#666666;stroke-width:0.337056;fill-opacity:1"
+       style="fill:#666666;fill-opacity:1;stroke-width:0.337056"
        id="path962"
        cx="140.22917"
-       cy="27.014706"
+       cy="29.660538"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path964"
        cx="140.22917"
-       cy="40.754902"
+       cy="43.400734"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-3"
-       cx="111.125"
-       cy="26.96937"
+       cx="111.12499"
+       cy="29.615202"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-6"
-       cx="111.12499"
-       cy="40.754906"
+       cx="111.12498"
+       cy="43.400738"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -149,41 +161,41 @@
        id="rect1018-1"
        width="19.843744"
        height="13.740197"
-       x="101.20314"
-       y="27.014708" />
+       x="101.20313"
+       y="29.66054" />
     <rect
-       style="display:inline;fill:#666666;stroke-width:0.337056;fill-opacity:1"
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.337056"
        id="rect908-29"
        width="13.229161"
        height="13.740197"
-       x="104.51043"
-       y="27.014708" />
+       x="104.51042"
+       y="29.66054" />
     <ellipse
-       style="display:inline;fill:#666666;stroke-width:0.337056;fill-opacity:1"
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.337056"
        id="path962-3"
-       cx="111.12499"
-       cy="27.014708"
+       cx="111.12498"
+       cy="29.66054"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-1"
-       cx="111.12499"
-       cy="40.754906"
+       cx="111.12498"
+       cy="43.400738"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-8"
        cx="169.33334"
-       cy="26.969364"
+       cy="29.615196"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-7"
        cx="169.33333"
-       cy="40.754902"
+       cy="43.400734"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -192,41 +204,41 @@
        width="19.843744"
        height="13.740197"
        x="159.41148"
-       y="27.014706" />
+       y="29.660538" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-2"
        width="13.229161"
        height="13.740197"
        x="162.71877"
-       y="27.014706" />
+       y="29.660538" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-0"
        cx="169.33333"
-       cy="27.014706"
+       cy="29.660538"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-2"
        cx="169.33333"
-       cy="40.754902"
+       cy="43.400734"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-0"
        cx="-105.83331"
-       cy="61.365204"
+       cy="64.01104"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-68"
-       cx="-105.83333"
-       cy="75.150734"
+       cx="-105.83334"
+       cy="77.79657"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -236,7 +248,7 @@
        width="19.843744"
        height="13.740197"
        x="-115.75517"
-       y="61.410542"
+       y="64.056374"
        transform="rotate(-90)" />
     <rect
        style="fill:#666666;stroke-width:0.337056"
@@ -244,37 +256,37 @@
        width="13.229161"
        height="13.740197"
        x="-112.44789"
-       y="61.410542"
+       y="64.056374"
        transform="rotate(-90)" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path962-4"
-       cx="-105.83333"
-       cy="61.410542"
+       cx="-105.83334"
+       cy="64.056374"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path964-9"
-       cx="-105.83333"
-       cy="75.150734"
+       cx="-105.83334"
+       cy="77.79657"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-3-5"
-       cx="-134.9375"
-       cy="61.365208"
+       cx="-134.93748"
+       cy="64.01104"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-6-0"
-       cx="-134.9375"
-       cy="75.150742"
+       cx="-134.93748"
+       cy="77.796577"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -283,30 +295,30 @@
        id="rect1018-1-4"
        width="19.843744"
        height="13.740197"
-       x="-144.85936"
-       y="61.410545"
+       x="-144.85934"
+       y="64.056381"
        transform="rotate(-90)" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-29-8"
        width="13.229161"
        height="13.740197"
-       x="-141.55206"
-       y="61.410545"
+       x="-141.55205"
+       y="64.056381"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-3-7"
-       cx="-134.9375"
-       cy="61.410545"
+       cx="-134.93748"
+       cy="64.056381"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-1-1"
-       cx="-134.9375"
-       cy="75.150742"
+       cx="-134.93748"
+       cy="77.796577"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
@@ -314,7 +326,7 @@
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-8-7"
        cx="-76.729156"
-       cy="61.3652"
+       cy="64.011032"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -322,7 +334,7 @@
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-7-2"
        cx="-76.729172"
-       cy="75.150734"
+       cy="77.79657"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -332,7 +344,7 @@
        width="19.843744"
        height="13.740197"
        x="-86.651016"
-       y="61.410542"
+       y="64.056374"
        transform="rotate(-90)" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
@@ -340,13 +352,13 @@
        width="13.229161"
        height="13.740197"
        x="-83.343735"
-       y="61.410542"
+       y="64.056374"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-0-2"
        cx="-76.729172"
-       cy="61.410542"
+       cy="64.056374"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
@@ -354,15 +366,15 @@
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-2-6"
        cx="-76.729172"
-       cy="75.150734"
+       cy="77.79657"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-0-6"
-       cx="-105.83332"
-       cy="205.26225"
+       cx="-105.83331"
+       cy="202.61641"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -370,7 +382,7 @@
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-68-1"
        cx="-105.83334"
-       cy="219.04779"
+       cy="216.40195"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -379,22 +391,22 @@
        id="rect1018-92-5"
        width="19.843744"
        height="13.740197"
-       x="-115.75518"
-       y="205.3076"
+       x="-115.75517"
+       y="202.66176"
        transform="rotate(-90)" />
     <rect
        style="fill:#666666;stroke-width:0.337056"
        id="rect908-66-9"
        width="13.229161"
        height="13.740197"
-       x="-112.4479"
-       y="205.3076"
+       x="-112.44789"
+       y="202.66176"
        transform="rotate(-90)" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path962-4-4"
        cx="-105.83334"
-       cy="205.3076"
+       cy="202.66176"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
@@ -402,23 +414,23 @@
        style="fill:#666666;stroke-width:0.337056"
        id="path964-9-9"
        cx="-105.83334"
-       cy="219.04779"
+       cy="216.40195"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-3-5-0"
-       cx="-134.9375"
-       cy="205.26227"
+       cx="-134.93748"
+       cy="202.61642"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-6-0-9"
-       cx="-134.9375"
-       cy="219.04779"
+       cx="-134.93748"
+       cy="216.40195"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -427,46 +439,46 @@
        id="rect1018-1-4-1"
        width="19.843744"
        height="13.740197"
-       x="-144.85936"
-       y="205.3076"
+       x="-144.85934"
+       y="202.66176"
        transform="rotate(-90)" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-29-8-7"
        width="13.229161"
        height="13.740197"
-       x="-141.55206"
-       y="205.3076"
+       x="-141.55205"
+       y="202.66176"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-3-7-7"
-       cx="-134.9375"
-       cy="205.3076"
+       cx="-134.93748"
+       cy="202.66176"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-1-1-1"
-       cx="-134.9375"
-       cy="219.04779"
+       cx="-134.93748"
+       cy="216.40195"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-8-7-1"
-       cx="-76.729164"
-       cy="205.26225"
+       cx="-76.729156"
+       cy="202.61641"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-7-2-5"
-       cx="-76.729179"
-       cy="219.04779"
+       cx="-76.729172"
+       cy="216.40195"
        rx="9.9218721"
        ry="10.305149"
        transform="rotate(-90)" />
@@ -475,45 +487,45 @@
        id="rect1018-9-7-9"
        width="19.843744"
        height="13.740197"
-       x="-86.651024"
-       y="205.3076"
+       x="-86.651016"
+       y="202.66176"
        transform="rotate(-90)" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-2-2-7"
        width="13.229161"
        height="13.740197"
-       x="-83.343742"
-       y="205.3076"
+       x="-83.343735"
+       y="202.66176"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-0-2-7"
-       cx="-76.729179"
-       cy="205.3076"
+       cx="-76.729172"
+       cy="202.66176"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-2-6-6"
-       cx="-76.729179"
-       cy="219.04779"
+       cx="-76.729172"
+       cy="216.40195"
        rx="6.6145806"
        ry="6.8700991"
        transform="rotate(-90)" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-36"
-       cx="140.22917"
-       cy="169.28799"
+       cx="140.22919"
+       cy="168.2206"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-1"
-       cx="140.22916"
-       cy="183.07353"
+       cx="140.22917"
+       cy="182.00613"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -521,41 +533,41 @@
        id="rect1018-0"
        width="19.843744"
        height="13.740197"
-       x="130.30731"
-       y="169.33333" />
+       x="130.30733"
+       y="168.26593" />
     <rect
        style="fill:#666666;stroke-width:0.337056"
        id="rect908-6"
        width="13.229161"
        height="13.740197"
-       x="133.61459"
-       y="169.33333" />
+       x="133.61461"
+       y="168.26593" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path962-32"
-       cx="140.22916"
-       cy="169.33333"
+       cx="140.22917"
+       cy="168.26593"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="fill:#666666;stroke-width:0.337056"
        id="path964-0"
-       cx="140.22916"
-       cy="183.07353"
+       cx="140.22917"
+       cy="182.00613"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-3-6"
        cx="111.12499"
-       cy="169.28799"
+       cy="168.2206"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-6-1"
        cx="111.12498"
-       cy="183.07353"
+       cy="182.00613"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -564,40 +576,40 @@
        width="19.843744"
        height="13.740197"
        x="101.20313"
-       y="169.33333" />
+       y="168.26593" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-29-5"
        width="13.229161"
        height="13.740197"
        x="104.51042"
-       y="169.33333" />
+       y="168.26593" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-3-4"
        cx="111.12498"
-       cy="169.33333"
+       cy="168.26593"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-1-7"
        cx="111.12498"
-       cy="183.07353"
+       cy="182.00613"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-8-6"
-       cx="169.33333"
-       cy="169.28799"
+       cx="169.33334"
+       cy="168.2206"
        rx="9.9218721"
        ry="10.305149" />
     <ellipse
        style="display:inline;fill:#ffffff;stroke-width:0.337056"
        id="path1075-5-7-5"
-       cx="169.33331"
-       cy="183.07353"
+       cx="169.33333"
+       cy="182.00613"
        rx="9.9218721"
        ry="10.305149" />
     <rect
@@ -605,27 +617,27 @@
        id="rect1018-9-6"
        width="19.843744"
        height="13.740197"
-       x="159.41147"
-       y="169.33333" />
+       x="159.41148"
+       y="168.26593" />
     <rect
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="rect908-2-9"
        width="13.229161"
        height="13.740197"
-       x="162.71875"
-       y="169.33333" />
+       x="162.71877"
+       y="168.26593" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path962-0-3"
-       cx="169.33331"
-       cy="169.33333"
+       cx="169.33333"
+       cy="168.26593"
        rx="6.6145806"
        ry="6.8700991" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.337056"
        id="path964-2-7"
-       cx="169.33331"
-       cy="183.07353"
+       cx="169.33333"
+       cy="182.00613"
        rx="6.6145806"
        ry="6.8700991" />
   </g>
