@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="DeciHD_Logo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title136">DeciHD_Logo2</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.71980918"
+     inkscape:cx="473.04204"
+     inkscape:cy="354.26056"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid132"
+       enabled="false"
+       snapvisiblegridlinesonly="false"
+       visible="false"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Layer 4">
+    <rect
+       style="fill:#000000;stroke-width:0.295711"
+       id="rect353"
+       width="100.54166"
+       height="100.54166"
+       x="89.958336"
+       y="55.5625" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 3"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;stroke-width:0.120952"
+       id="rect367"
+       width="84.666664"
+       height="84.666664"
+       x="97.895836"
+       y="63.5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;stroke-width:0.113392"
+       id="rect190"
+       width="72.571426"
+       height="72.571419"
+       x="103.94346"
+       y="69.547623" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.107574"
+       id="rect455"
+       width="22.678574"
+       height="40.821434"
+       x="119.81846"
+       y="85.422607" />
+    <circle
+       style="display:inline;fill:#ffffff;stroke-width:0.102053"
+       id="path509"
+       cx="142.49702"
+       cy="105.83336"
+       r="20.410717" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.138877"
+       id="rect511"
+       width="20.410715"
+       height="6.8035736"
+       x="101.67562"
+       y="91.659218" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.138877"
+       id="rect513"
+       width="20.410715"
+       height="6.8035679"
+       x="101.67562"
+       y="113.20388" />
+    <rect
+       style="display:inline;fill:#ffffff;stroke-width:0.107572"
+       id="rect515"
+       width="20.410721"
+       height="6.8035717"
+       x="158.37204"
+       y="102.43155" />
+  </g>
+  <metadata
+     id="metadata134">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>DeciHD_Logo2</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Decimilia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Decimilia</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:description>The original logo of DeciHD Project</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Decimilia</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nd/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
